@@ -1,0 +1,19 @@
+{
+  "info": {
+    "name": "File Organizer Monitoring",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Report Organizer Status",
+      "request": {
+        "method": "POST",
+        "url": "https://monitoring.example.com/report",
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"status\": \"success\" }"
+        }
+      }
+    }
+  ]
+}
