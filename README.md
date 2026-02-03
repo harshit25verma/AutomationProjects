@@ -10,7 +10,7 @@ building reliable, testable, and maintainable automation systems.
 
 ## Projects
 
-### 1️. System File Intelligence
+### 1️. [System File Intelligence](https://github.com/harshit25verma/AutomationProjects/tree/9b1029ad7cc4ff45b0989af80bfe635d61371de0/file-intelligence)
 A Python-based system maintenance tool that automatically organizes files and validates correctness using Robot Framework.
 
 **Skills demonstrated:**
@@ -22,7 +22,7 @@ A Python-based system maintenance tool that automatically organizes files and va
 
 ---
 
-### 2️. Job Market Scraper
+### 2️. [Job Market Scraper](https://github.com/harshit25verma/AutomationProjects/tree/9b1029ad7cc4ff45b0989af80bfe635d61371de0/job-market-scraper)
 Automation tools for scraping the Polish job market using Selenium and Playwright, with CI pipeline integration.
 
 **Skills demonstrated:**
