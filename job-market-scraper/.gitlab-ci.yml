@@ -1,0 +1,14 @@
+stages:
+  - test
+
+selenium-test:
+  image: python:3.11
+  script:
+    - pip install selenium playwright
+    - python selenium_scraper.py
+
+playwright-test:
+  image: python:3.11
+  script:
+    - playwright install
+    - python playwright_scraper.py
